@@ -136,6 +136,9 @@ section {
   font-weight: 700;
   font-size: 2.5rem;
 }
+.featured__img--height {
+  margin-bottom: 22px;
+}
 
 .product {
   background: radial-gradient(var(--clr-inner, limegreen), var(--clr-outer, purple));
